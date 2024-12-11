@@ -1,0 +1,64 @@
+https://www.youtube.com/watch?v=TIMOfVhnjQA
+
+🔥 Complete Guide: Self-Hosted AI Starter Kit Setup & RAG Agent Creation
+Discover how to set up your complete local AI infrastructure in minutes using the self-hosted AI starter kit from n8n! Run AI locally with zero cloud costs, deploy quickly, and maintain 100% data privacy.
+
+🚀 What You'll Learn:
+Complete local AI setup with Llama + Ollama
+Vector database integration with Qdrant
+Data storage with PostgreSQL
+Workflow automation with n8n
+Building full RAG AI agents
+
+💻 Technical Components:
+
+Docker Desktop
+GitHub Desktop
+Ollama with Llama 2
+Nomic Embed Text for embeddings
+PostgreSQL for data storage
+n8n for workflow automation
+
+⚡️ Key Benefits:
+
+Zero ongoing cloud costs
+Complete data privacy & control
+Simple local deployment
+Scalable infrastructure
+Full ownership of AI stack
+
+📝 Installation Steps:
+Clone repo: self-hosted-AI-starter-kit
+Configure environment
+Launch with Docker
+Set up AI agent
+Configure vector database
+Set up Google Drive integration
+
+🔗 Important Links:
+GitHub Repository: https://github.com/n8n-io/self-hosted...
+Blog Tutorial: https://mer.vin/2024/12/self-hosted-a...
+Chunking Strategy:    • Chunking Strategies in RAG: Optimisin...  
+
+🛠️ Prerequisites:
+Docker Desktop
+GitHub Desktop
+Google Cloud Console access for Drive API
+
+💡 Pro Tips:
+Disable local Ollama if running Docker version
+Use proper chunking strategies for text splitting
+Follow Google OAuth setup carefully
+Test each workflow step individually
+
+⚠️ Common Issues & Solutions:
+Ollama conflicts with local installation
+Google Drive authentication setup
+Vector database indexing requirements
+Workflow testing procedures
+
+🔍 Use Cases:
+Company knowledge base
+Custom data integration
+Private AI development
+Scalable AI solutions
